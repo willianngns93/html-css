@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+:root {
+    --cor0: #F2F2F2;
+    --cor1: #FEF0F8;
+    --cor2: #4679A6;
+    --cor3: #BF048D;
+    --cor4: #8C0368;
+
+    --fonte-link: 'Roboto Mono', monospace;
+    --fonte-texto: 'Itim', cursive;
+}
